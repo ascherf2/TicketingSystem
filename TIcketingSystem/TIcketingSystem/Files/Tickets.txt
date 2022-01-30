@@ -1,0 +1,4 @@
+﻿Name, Class, Grade
+Jim, Gym, A
+Kim, Science, B
+Tom, Math, A
